@@ -1,0 +1,11 @@
+F:\School\Spring2020\cSharpProjects\FormManagerDemo\FormManagerDemo\bin\Debug\FormManagerDemo.exe.config
+F:\School\Spring2020\cSharpProjects\FormManagerDemo\FormManagerDemo\bin\Debug\FormManagerDemo.exe
+F:\School\Spring2020\cSharpProjects\FormManagerDemo\FormManagerDemo\bin\Debug\FormManagerDemo.pdb
+F:\School\Spring2020\cSharpProjects\FormManagerDemo\FormManagerDemo\obj\Debug\FormManagerDemo.csprojAssemblyReference.cache
+F:\School\Spring2020\cSharpProjects\FormManagerDemo\FormManagerDemo\obj\Debug\FormManagerDemo.Form1.resources
+F:\School\Spring2020\cSharpProjects\FormManagerDemo\FormManagerDemo\obj\Debug\FormManagerDemo.Form2.resources
+F:\School\Spring2020\cSharpProjects\FormManagerDemo\FormManagerDemo\obj\Debug\FormManagerDemo.Form3.resources
+F:\School\Spring2020\cSharpProjects\FormManagerDemo\FormManagerDemo\obj\Debug\FormManagerDemo.Properties.Resources.resources
+F:\School\Spring2020\cSharpProjects\FormManagerDemo\FormManagerDemo\obj\Debug\FormManagerDemo.csproj.GenerateResource.cache
+F:\School\Spring2020\cSharpProjects\FormManagerDemo\FormManagerDemo\obj\Debug\FormManagerDemo.exe
+F:\School\Spring2020\cSharpProjects\FormManagerDemo\FormManagerDemo\obj\Debug\FormManagerDemo.pdb
