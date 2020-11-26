@@ -1,6 +1,6 @@
 # Form_Manager_Demo
 Demonstrates how a simple form manager class can be created in C# windows forms.
--- Form Manager Demo by Chris Downing -- 03/01/2020 --
+By Chris Downing -- 03/01/2020 --
 
 When the application launches and the first form loads it instantiates a new FormManager class
 Form manager creates new instances of forms 2 and 3 which can be accessed and persist until
